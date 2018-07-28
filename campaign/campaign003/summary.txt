@@ -1,0 +1,5 @@
+Image=campaign/images/plan landing 1
+PlayerVessels=usn_ssn_seawolf,usn_ssn_los_angeles_flt3,usn_ssn_los_angeles_flt2,usn_ssn_los_angeles,usn_ssn_sturgeon
+[COMMANDER NAMES]
+CommanderName=COMSUBPAC
+CommanderFleetName=CINCPACFLT

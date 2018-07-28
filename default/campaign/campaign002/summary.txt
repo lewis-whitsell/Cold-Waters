@@ -1,3 +1,0 @@
-Image=campaign/images/68 nato ground 1
-
-PlayerVessels=usn_ssn_sturgeon_68,usn_ssn_permit_68,usn_ssn_skipjack_68

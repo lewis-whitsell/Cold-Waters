@@ -1,3 +1,0 @@
-Image=campaign/images/pact naval 2
-
-PlayerVessels=usn_ssn_los_angeles,usn_ssn_narwhal,usn_ssn_sturgeon,usn_ssn_permit,usn_ssn_skipjack
